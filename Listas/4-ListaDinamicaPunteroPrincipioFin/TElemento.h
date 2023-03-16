@@ -2,8 +2,8 @@
 // Created by Oleg Fomenkov on 21/2/23.
 //
 
-#ifndef LISTADINAMICA_TELEMENTO_H
-#define LISTADINAMICA_TELEMENTO_H
+#ifndef LISTADINAMICAPUNTEROPRINCIPIOFIN_TELEMENTO_H
+#define LISTADINAMICAPUNTEROPRINCIPIOFIN_TELEMENTO_H
 
 typedef struct tEjercicio{
     int elem;
@@ -17,4 +17,4 @@ void crearElemento(int elem, TElemento* elemento);
 
 
 
-#endif //LISTADINAMICA_TELEMENTO_H
+#endif //LISTADINAMICAPUNTEROPRINCIPIOFIN_TELEMENTO_H

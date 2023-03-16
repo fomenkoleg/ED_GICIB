@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c
+ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+stdio.h
+-
+stdlib.h
+-
+ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+TElemento.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c
+stdio.h
+-
+ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+
