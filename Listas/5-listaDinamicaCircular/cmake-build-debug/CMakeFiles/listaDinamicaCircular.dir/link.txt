@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/listaDinamicaCircular.dir/main.c.o CMakeFiles/listaDinamicaCircular.dir/ListaCircular.c.o CMakeFiles/listaDinamicaCircular.dir/TElemento.c.o -o listaDinamicaCircular 
