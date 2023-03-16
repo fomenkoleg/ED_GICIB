@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ListaEstatica.dir/main.c.o CMakeFiles/ListaEstatica.dir/TElemento.c.o CMakeFiles/ListaEstatica.dir/TListaEstatica.c.o -o ListaEstatica 
