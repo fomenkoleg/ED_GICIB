@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ListaCircularDoblementeEnlazada/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ListaCircularDoblementeEnlazada/listaCircularDoblementeEnlazada.h
+TElemento.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ListaCircularDoblementeEnlazada/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ListaCircularDoblementeEnlazada/main.c
+stdio.h
+-
+listaCircularDoblementeEnlazada.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ListaCircularDoblementeEnlazada/listaCircularDoblementeEnlazada.h
+
