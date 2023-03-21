@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ListaCircularDoblementeEnlazadaPunteroprinicpioFin/TElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ListaCircularDoblementeEnlazadaPunteroprinicpioFin/listaNombreLargo.c
+listaNombreLargo.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ListaCircularDoblementeEnlazadaPunteroprinicpioFin/listaNombreLargo.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ListaCircularDoblementeEnlazadaPunteroprinicpioFin/listaNombreLargo.h
+TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ListaCircularDoblementeEnlazadaPunteroprinicpioFin/TElemento.h
+
