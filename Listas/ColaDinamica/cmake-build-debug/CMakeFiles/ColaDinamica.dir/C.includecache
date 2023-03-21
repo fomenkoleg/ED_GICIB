@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ColaDinamica/ColaDinamica.c
+ColaDinamica.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ColaDinamica/ColaDinamica.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ColaDinamica/ColaDinamica.h
+TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ColaDinamica/TElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/ColaDinamica/TElemento.h
+
