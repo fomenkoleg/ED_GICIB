@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.h
+stdio.h
+-
+TElemento.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.h
+stdlib.h
+-
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c
+stdio.h
+-
+PilaDinamica.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.h
+

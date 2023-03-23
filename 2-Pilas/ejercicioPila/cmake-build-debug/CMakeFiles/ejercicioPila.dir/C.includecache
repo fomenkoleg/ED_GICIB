@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/Lista/listaEnlazadaDinamica.h
+../TElemento.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/PilaDinamica.h
+stdio.h
+-
+TElemento.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/TElemento.h
+stdlib.h
+-
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/TElemento.h
+
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/main.c
+stdio.h
+-
+Lista/listaEnlazadaDinamica.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/Lista/listaEnlazadaDinamica.h
+PilaDinamica.h
+/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/ejercicioPila/PilaDinamica.h
+
