@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TConjuntoDinamico.c
+TConjuntoDinamico.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TConjuntoDinamico.h
+stdlib.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/stdlib.h
+stdio.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/stdio.h
+time.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/time.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TConjuntoDinamico.h
+TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TElemento.h
+stdio.h
+-
+string.h
+-
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/main.c
+stdio.h
+-
+TConjuntoDinamico.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/4-Conuntos/DinamicSet-Alumnos/TConjuntoDinamico.h
+

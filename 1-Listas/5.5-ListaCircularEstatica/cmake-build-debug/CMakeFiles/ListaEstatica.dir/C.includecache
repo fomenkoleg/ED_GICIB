@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/2-Listas/5-ListaCircularEstatica/TElemento.h
+stdio.h
+-
+
+/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/2-Listas/5-ListaCircularEstatica/TListaCircularEstatica.c
+TListaCircularEstatica.h
+/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/2-Listas/5-ListaCircularEstatica/TListaCircularEstatica.h
+
+/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/2-Listas/5-ListaCircularEstatica/TListaCircularEstatica.h
+stdio.h
+-
+TElemento.h
+/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/2-Listas/5-ListaCircularEstatica/TElemento.h
+
