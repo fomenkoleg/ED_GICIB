@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StaticStack"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StaticStack">
+				<Option output="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug/StaticStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 StaticStack"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StaticStack/fast">
+				<Option output="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug/StaticStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 StaticStack/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/olegfomenkov/CLionProjects/2.1-ED\ 2Q/3-PIlas/1-StaticStack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/TElemento.c">
+			<Option target="StaticStack"/>
+		</Unit>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/TElemento.h">
+			<Option target="StaticStack"/>
+		</Unit>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/TStaticStack.c">
+			<Option target="StaticStack"/>
+		</Unit>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/TStaticStack.h">
+			<Option target="StaticStack"/>
+		</Unit>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/main.c">
+			<Option target="StaticStack"/>
+		</Unit>
+		<Unit filename="/Users/olegfomenkov/CLionProjects/2.1-ED 2Q/3-PIlas/1-StaticStack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

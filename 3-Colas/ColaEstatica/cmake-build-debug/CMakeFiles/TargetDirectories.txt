@@ -1,0 +1,3 @@
+/Users/olegfomenkov/CLionProjects/StaticQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/olegfomenkov/CLionProjects/StaticQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/olegfomenkov/CLionProjects/StaticQueue/cmake-build-debug/CMakeFiles/StaticQueue.dir
