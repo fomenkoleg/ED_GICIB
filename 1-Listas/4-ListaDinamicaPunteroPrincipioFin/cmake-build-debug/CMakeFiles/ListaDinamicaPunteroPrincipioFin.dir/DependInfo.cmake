@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o"
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o"
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/main.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

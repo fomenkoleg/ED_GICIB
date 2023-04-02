@@ -6,19 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.c
+PilaDinamica.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.h
 stdio.h
 -
 TElemento.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.h
 stdlib.h
 -
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.c
+TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.h
+stdio.h
+-
+string.h
+-
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/main.c
 stdio.h
 -
 PilaDinamica.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.h
 

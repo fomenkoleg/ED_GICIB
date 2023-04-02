@@ -21,110 +21,20 @@ int main() {
     crearElemento(9, &e9);
     crearElemento(10, &e10);
 
-    //mostrar vacía
-    mostrarLista(&l1);
-    printf("\n");
-
-
-    //insertarPrincipio
-    //vacía
-
-    insertarListaCabecera(&l1, &e1);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //con elementos
-    insertarListaCabecera(&l1, &e2);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //insertarfinal
-    //vacia
-
-    insertarListaFinal(&l2, &e1);
-    mostrarLista(&l2);
-    printf("\n");
-
-    //con elementos
-    insertarListaFinal(&l2, &e2);
-    mostrarLista(&l2);
-    printf("\n");
-
     //insertamos más elementos
     insertarListaFinal(&l2, &e3);
     insertarListaFinal(&l2, &e4);
-    insertarListaFinal(&l2, &e5);
-    insertarListaFinal(&l2, &e6);
-    insertarListaFinal(&l2, &e7);
-    insertarListaFinal(&l2, &e8);
+    insertarListaFinal(&l2, &e3);
+    insertarListaFinal(&l2, &e4);
+    insertarListaFinal(&l2, &e3);
+    insertarListaFinal(&l2, &e3);
     mostrarLista(&l2);
     printf("\n");
 
-    //borramos
-    //primero
-    eliminarElementoLista(&l2, &e1);
+    borrarSecuencia(&l2, &e3, &e4);
     mostrarLista(&l2);
-    printf("\n");
-
-    //último
-    eliminarElementoLista(&l2, &e8);
-    mostrarLista(&l2);
-    printf("\n");
-
-    //intermedio
-    eliminarElementoLista(&l2, &e4);
-    mostrarLista(&l2);
-    printf("\n");
-
-
-    //destruir
-    //con elementos
-    destruirLista(&l1);
-    mostrarLista(&l1);
-    printf("\n");
-
-
-    //asignar listas
-    //llena a vacia
-    asignarLista(&l2, &l1);
-    mostrarLista(&l1);
-    printf("\n");
-
-
-    //llena a llena
-    insertarListaFinal(&l3, &e4);
-    insertarListaFinal(&l3, &e5);
-    insertarListaFinal(&l3, &e6);
-
-
-    asignarLista(&l3, &l1);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //llena a vacía
-    destruirLista(&l1);
-    asignarLista(&l3, &l1);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //concatenar
-    //vacia + llena
-    destruirLista(&l1);
-    concatenarLista(&l1, &l3);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //llena + llena
-    concatenarLista(&l1, &l1);
-    mostrarLista(&l1);
-    printf("\n");
-
-    //llena+vacia
-    destruirLista(&l1);
-    concatenarLista(&l2, &l1);
-    mostrarLista(&l2);
-    printf("\n");
 
     return 0;
-    //printf("Hello world");
 }
+
+

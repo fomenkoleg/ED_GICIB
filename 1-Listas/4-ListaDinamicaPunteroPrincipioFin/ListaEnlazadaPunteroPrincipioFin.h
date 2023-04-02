@@ -33,6 +33,7 @@ int obtenerNumeroElementos(TLista l);
 void obtenerUltimoLista(TLista* l, TElemento* elem);
 void destruirLista(TLista *l);
 void asignarLista(TLista* orig, TLista* dest);
+int borrarSecuencia(TLista* l, TElemento* e1, TElemento*e2);
 int contieneLista(TLista* l, TElemento elem);
 int esIgualLista(TLista* uno, TLista* dos);
 void concatenarLista(TLista* uno, TLista* dos);

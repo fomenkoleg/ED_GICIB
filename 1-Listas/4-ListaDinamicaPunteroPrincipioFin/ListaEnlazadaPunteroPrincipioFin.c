@@ -195,6 +195,58 @@ void asignarLista(TLista* orig, TLista* dest){
 
 }
 
+int borrarSecuencia(TLista* l, TElemento* e1, TElemento*e2){
+    if(!esListaVacia(l)){
+        if(obtenerNumeroElementos(*l)!=1){ //si tiene más de un elemento
+            int cont = 0;
+            TNodo* paraRecorrer = l->head->sig; //crea el puntero para recorrer (desde el segundo)
+            TNodo* anterior = l->head; //crea el puntero que apunte al anterior (el primero al principio)
+            TNodo* ultimoElemento = l->head; //crear un puntero para guardar el último elemento antes de los dos por comprobar
+
+            while(paraRecorrer != NULL){
+                if(igualElemento(*e1, anterior->info) && igualElemento(*e2, paraRecorrer->info)){ //comparación
+
+                    //asignación de punteros
+                    if(paraRecorrer->sig == NULL){
+                        l->tail = ultimoElemento; //si están en las últimas dos posiciones
+                    }
+                    ultimoElemento = paraRecorrer->sig;
+
+                    //borrado
+                    TNodo* paraBorrarAnt = anterior;
+                    TNodo* paraBorrarCur = paraRecorrer;
+                    cont++;
+
+                    anterior = paraRecorrer->sig;
+                    if(paraRecorrer->sig != NULL){
+                        paraRecorrer = paraRecorrer->sig->sig;
+                    } else {
+                        return cont;
+                    }
+                    free(paraBorrarAnt);
+                    paraBorrarAnt = NULL;
+                    free(paraBorrarCur);
+                    paraBorrarCur = NULL;
+                    //actualización de punteros
+
+
+                } else {
+                    if(ultimoElemento){
+                        ultimoElemento = anterior; //si hemos guardado el último elemento;
+                    }
+                    anterior= anterior->sig;
+                    paraRecorrer = paraRecorrer->sig;
+                }
+                l->head = ultimoElemento;
+            }
+
+        } else {
+            return 0;
+        }
+    }
+    return 0;
+}
+
 void concatenarLista(TLista* uno, TLista* dos){
     if(!esListaVacia(uno)){
         if(!esListaVacia(dos)){
@@ -230,86 +282,3 @@ int contieneLista(TLista* l, TElemento elem){
         return 0;  //si no pos no jsjsj
     }
 }
-/*
-
-void borrarNPirmeros(int n, TLista *l){
-    if(!esListaVacia(l)){
-        if(obtenerNumeroElementos(*l)>=n){
-            while(n){
-                restoLista(l);
-                n--;
-            }
-        }
-    }
-}
-
-void unique(TLista* l){
-    if(!esListaVacia(l)){
-        TLista* newList = (TLista*) malloc(sizeof(TLista));
-        TNodo* auxNew = *newList;
-        TNodo* aux = *l;
-        while(aux){
-            if(!contieneLista(newList, aux->info)){
-                TNodo* nuevoElemento = (TNodo*) malloc(sizeof(TNodo));
-                asignarElemento(&nuevoElemento->info, aux->info);
-                nuevoElemento->sig = NULL;
-                auxNew->sig = nuevoElemento;
-                auxNew = nuevoElemento;
-            }
-            aux = aux->sig;
-        }
-        l = newList;
-    }
-}
-void borrarUltimo(TLista* lista){
-    if(!esListaVacia(lista)){
-        TNodo* aux = *lista;
-
-        if(aux->sig == NULL){
-            destruirLista(lista);
-        } else {
-            while(aux->sig->sig != NULL){
-                aux = aux->sig;
-            }
-            free(aux->sig);
-            aux->sig = NULL;
-        }
-    }
-}
-
-void invertir(TLista* l1){
-    if(!esListaVacia(l1)){
-        TLista* newList = (TLista*) malloc(sizeof(TLista));
-        TNodo* aux = *l1;
-        while(aux){
-            insertarListaFinal(newList, &aux->info);
-            aux = aux ->sig;
-        }
-        *l1 = *newList;
-    }
-}
-void borrarCada(TLista *l, int n){
-    if(!esListaVacia(l)){
-        if(n == 1){
-            destruirLista(l);
-        } else {
-
-            if((*l)->sig == NULL){
-
-            }
-            TNodo*act = *l;
-            TNodo*ant = NULL;
-            int cont  = 1;
-            while(act!=NULL){
-                if(cont%n == 0){
-                    ant->sig = act->sig;
-                }
-
-                ant = act;
-                act = act->sig;
-            }
-        }
-    }
-}
-
-*/

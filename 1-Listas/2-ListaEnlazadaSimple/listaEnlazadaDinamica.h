@@ -5,7 +5,7 @@
 #ifndef LISTADINAMICA_LISTAENLAZADADINAMICA_H
 #define LISTADINAMICA_LISTAENLAZADADINAMICA_H
 
-#include "../listaEnlazadaSimple/tElemento.h"
+#include "tElemento.h"
 
 typedef struct Nodo{
     TElemento info;
@@ -36,6 +36,8 @@ void concatenarLista(TLista* uno, TLista* dos);
 
 
 void borrarNPirmeros(int n, TLista *l);
+
+void unique(TLista* l);
 /*
 
 void unique(TLista* l);

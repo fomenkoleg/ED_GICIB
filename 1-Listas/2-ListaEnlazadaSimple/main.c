@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "listaEnlazadaDinamica.h"
 
+
 int main() {
     TLista l1, l2, l3, l4;
     crearListaVacia(&l1);
@@ -51,13 +52,16 @@ int main() {
 
     //insertamos más elementos
     insertarListaFinal(&l2, &e3);
+    insertarListaFinal(&l2, &e3);
+    insertarListaFinal(&l2, &e3);
+    insertarListaFinal(&l2, &e4);
     insertarListaFinal(&l2, &e4);
     insertarListaFinal(&l2, &e5);
-    insertarListaFinal(&l2, &e6);
-    insertarListaFinal(&l2, &e7);
-    insertarListaFinal(&l2, &e8);
     mostrarLista(&l2);
     printf("\n");
+
+    printf("Unicos\n");
+    unique(&l2);
 
     //borramos
     //primero

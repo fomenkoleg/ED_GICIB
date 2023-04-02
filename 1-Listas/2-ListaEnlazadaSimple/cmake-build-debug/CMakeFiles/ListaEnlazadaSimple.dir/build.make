@@ -53,10 +53,10 @@ RM = "/Users/olegfomenkov/Library/Application Support/JetBrains/Toolbox/apps/CLi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple
+CMAKE_SOURCE_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ListaEnlazadaSimple.dir/depend.make
@@ -68,42 +68,42 @@ include CMakeFiles/ListaEnlazadaSimple.dir/flags.make
 
 CMakeFiles/ListaEnlazadaSimple.dir/main.c.o: CMakeFiles/ListaEnlazadaSimple.dir/flags.make
 CMakeFiles/ListaEnlazadaSimple.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/main.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/main.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/main.c
 
 CMakeFiles/ListaEnlazadaSimple.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaEnlazadaSimple.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/main.c > CMakeFiles/ListaEnlazadaSimple.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/main.c > CMakeFiles/ListaEnlazadaSimple.dir/main.c.i
 
 CMakeFiles/ListaEnlazadaSimple.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaEnlazadaSimple.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/main.c -o CMakeFiles/ListaEnlazadaSimple.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/main.c -o CMakeFiles/ListaEnlazadaSimple.dir/main.c.s
 
 CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o: CMakeFiles/ListaEnlazadaSimple.dir/flags.make
 CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o: ../listaEnlazadaDinamica.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c
 
 CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c > CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c > CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.i
 
 CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c -o CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c -o CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.s
 
 CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o: CMakeFiles/ListaEnlazadaSimple.dir/flags.make
 CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o: ../tElemento.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/tElemento.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.c
 
 CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/tElemento.c > CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.c > CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.i
 
 CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/tElemento.c -o CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.c -o CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.s
 
 # Object files for target ListaEnlazadaSimple
 ListaEnlazadaSimple_OBJECTS = \
@@ -119,7 +119,7 @@ ListaEnlazadaSimple: CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.
 ListaEnlazadaSimple: CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o
 ListaEnlazadaSimple: CMakeFiles/ListaEnlazadaSimple.dir/build.make
 ListaEnlazadaSimple: CMakeFiles/ListaEnlazadaSimple.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ListaEnlazadaSimple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ListaEnlazadaSimple"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ListaEnlazadaSimple.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -131,6 +131,6 @@ CMakeFiles/ListaEnlazadaSimple.dir/clean:
 .PHONY : CMakeFiles/ListaEnlazadaSimple.dir/clean
 
 CMakeFiles/ListaEnlazadaSimple.dir/depend:
-	cd /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ListaEnlazadaSimple.dir/depend
 

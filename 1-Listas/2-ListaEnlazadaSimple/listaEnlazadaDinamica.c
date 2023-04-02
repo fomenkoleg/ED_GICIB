@@ -84,7 +84,7 @@ int eliminarElementoLista(TLista* l, TElemento* elem) {
             } else {
                 TNodo *aux2 = aux->sig; //hacemos que aux2 sea el 2º elemento
                 while (!esListaVacia(&aux)) { //mientras no sea null
-                    if (igualElemento(aux2->info, *elem)) { //comparamos el elem con los elementos de la lista
+                    if (aux2 != NULL && igualElemento(aux2->info, *elem)) { //comparamos el elem con los elementos de la lista
                         aux->sig = aux2->sig;  //hacemos que el anterior apunte al siguiente del actual
                         free(aux2); //liberamos el actual
                         deleted = 1; //encontramos el elemento a borrar
@@ -166,6 +166,35 @@ void asignarLista(TLista* orig, TLista* dest){
 
 }
 
+void unique(TLista* l){
+    if(!esListaVacia(l)){
+        TNodo* recorrerOriginal = *l;
+
+        TLista unicosLista;
+        crearListaVacia(&unicosLista);
+
+        insertarListaCabecera(&unicosLista, &recorrerOriginal->info);
+
+        TNodo* recorrerUnicos = unicosLista;
+        recorrerOriginal = recorrerOriginal->sig; //miramos el siguiente
+
+        while(recorrerOriginal!=NULL){
+            if(!igualElemento(recorrerOriginal->info, recorrerUnicos->info)){
+
+                TNodo* nuevoElemento = (TNodo*) malloc(sizeof(TNodo));
+                asignarElemento(&nuevoElemento->info, recorrerOriginal->info);
+                nuevoElemento->sig = NULL;
+
+                recorrerUnicos->sig = nuevoElemento;
+                recorrerUnicos = nuevoElemento;
+            }
+
+            recorrerOriginal=recorrerOriginal->sig;
+        }
+        asignarLista(&unicosLista, l);
+    }
+}
+
 void destruirLista(TLista *l){
     while(!esListaVacia(l)){
         restoLista(l);
@@ -219,7 +248,7 @@ void borrarNPirmeros(int n, TLista *l){
         }
     }
 }
-
+/*
 void unique(TLista* l){
     if(!esListaVacia(l)){
         TLista* newList = (TLista*) malloc(sizeof(TLista));
@@ -238,6 +267,7 @@ void unique(TLista* l){
         l = newList;
     }
 }
+*/
 void borrarUltimo(TLista* lista){
     if(!esListaVacia(lista)){
         TNodo* aux = *lista;

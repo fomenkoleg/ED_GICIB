@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c
+listaEnlazadaDinamica.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.h
+tElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.h
+

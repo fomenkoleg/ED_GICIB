@@ -1,4 +1,4 @@
-# Install script for directory: /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica
+# Install script for directory: /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

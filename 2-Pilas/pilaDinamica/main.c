@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "PilaDinamica.h"
+#include <string.h>
 
-void invertirPalabras(char* string);
+int diamantes(char* string);
 
 int main() {
     TPila  s1, s2, s3;
@@ -39,5 +40,46 @@ int main() {
 
 }
 
+// (())()(())()()
+//><..<..>.><..><
+
+int diamantes(char* string){
+    int cont  = 0;
+
+    TPila original;
+
+    TPila pilaAux;
+    crearPilaVacia(&pilaAux);
+
+    TElemento e;
+
+    while(!esPilaVacia(&original)){
+        cima(&original, &e);
+        pop(&original);
+        push(&pilaAux, &e);
+    }
+
+    mostrarPila(&original);
+
+
+
+
+
+
+    TElemento e1;
+    crearElemento(0, &e1);
+
+    for (int i = 0; i < strlen(string); ++i) {
+        if(string[i] == '<'){
+            push(&pila, &e1);
+        } else if(string[i] == '>'){
+            if(!esPilaVacia(&pila)){
+                pop(&pila);
+                cont++;
+            }
+        }
+    }
+    return cont;
+}
 
 

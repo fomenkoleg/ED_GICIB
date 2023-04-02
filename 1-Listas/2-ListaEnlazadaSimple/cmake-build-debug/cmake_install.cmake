@@ -1,4 +1,4 @@
-# Install script for directory: /Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple
+# Install script for directory: /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

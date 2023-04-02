@@ -1,3 +1,3 @@
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir

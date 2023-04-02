@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o"
-  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/main.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/main.c.o"
-  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/tElemento.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/listaEnlazadaDinamica.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/listaEnlazadaDinamica.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/main.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/main.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/tElemento.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/2-ListaEnlazadaSimple/cmake-build-debug/CMakeFiles/ListaEnlazadaSimple.dir/tElemento.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

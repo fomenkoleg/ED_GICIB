@@ -53,10 +53,10 @@ RM = "/Users/olegfomenkov/Library/Application Support/JetBrains/Toolbox/apps/CLi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica
+CMAKE_SOURCE_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/pilaDinamica.dir/depend.make
@@ -68,42 +68,42 @@ include CMakeFiles/pilaDinamica.dir/flags.make
 
 CMakeFiles/pilaDinamica.dir/main.c.o: CMakeFiles/pilaDinamica.dir/flags.make
 CMakeFiles/pilaDinamica.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/pilaDinamica.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/main.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/pilaDinamica.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/main.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/main.c
 
 CMakeFiles/pilaDinamica.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pilaDinamica.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c > CMakeFiles/pilaDinamica.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/main.c > CMakeFiles/pilaDinamica.dir/main.c.i
 
 CMakeFiles/pilaDinamica.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pilaDinamica.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c -o CMakeFiles/pilaDinamica.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/main.c -o CMakeFiles/pilaDinamica.dir/main.c.s
 
 CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o: CMakeFiles/pilaDinamica.dir/flags.make
 CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o: ../PilaDinamica.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.c
 
 CMakeFiles/pilaDinamica.dir/PilaDinamica.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pilaDinamica.dir/PilaDinamica.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.c > CMakeFiles/pilaDinamica.dir/PilaDinamica.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.c > CMakeFiles/pilaDinamica.dir/PilaDinamica.c.i
 
 CMakeFiles/pilaDinamica.dir/PilaDinamica.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pilaDinamica.dir/PilaDinamica.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.c -o CMakeFiles/pilaDinamica.dir/PilaDinamica.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.c -o CMakeFiles/pilaDinamica.dir/PilaDinamica.c.s
 
 CMakeFiles/pilaDinamica.dir/TElemento.c.o: CMakeFiles/pilaDinamica.dir/flags.make
 CMakeFiles/pilaDinamica.dir/TElemento.c.o: ../TElemento.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/pilaDinamica.dir/TElemento.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/TElemento.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/pilaDinamica.dir/TElemento.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pilaDinamica.dir/TElemento.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.c
 
 CMakeFiles/pilaDinamica.dir/TElemento.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pilaDinamica.dir/TElemento.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.c > CMakeFiles/pilaDinamica.dir/TElemento.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.c > CMakeFiles/pilaDinamica.dir/TElemento.c.i
 
 CMakeFiles/pilaDinamica.dir/TElemento.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pilaDinamica.dir/TElemento.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.c -o CMakeFiles/pilaDinamica.dir/TElemento.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.c -o CMakeFiles/pilaDinamica.dir/TElemento.c.s
 
 # Object files for target pilaDinamica
 pilaDinamica_OBJECTS = \
@@ -119,7 +119,7 @@ pilaDinamica: CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o
 pilaDinamica: CMakeFiles/pilaDinamica.dir/TElemento.c.o
 pilaDinamica: CMakeFiles/pilaDinamica.dir/build.make
 pilaDinamica: CMakeFiles/pilaDinamica.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable pilaDinamica"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable pilaDinamica"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pilaDinamica.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -131,6 +131,6 @@ CMakeFiles/pilaDinamica.dir/clean:
 .PHONY : CMakeFiles/pilaDinamica.dir/clean
 
 CMakeFiles/pilaDinamica.dir/depend:
-	cd /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/pilaDinamica.dir/depend
 

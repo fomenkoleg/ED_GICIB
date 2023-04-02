@@ -53,10 +53,10 @@ RM = "/Users/olegfomenkov/Library/Application Support/JetBrains/Toolbox/apps/CLi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin
+CMAKE_SOURCE_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/depend.make
@@ -68,42 +68,42 @@ include CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/flags.make
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/flags.make
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/main.c
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/main.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.i
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/main.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/main.c.s
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/flags.make
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o: ../ListaEnlazadaPunteroPrincipioFin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.i
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/ListaEnlazadaPunteroPrincipioFin.c.s
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/flags.make
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o: ../TElemento.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o -c /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o -c /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.c
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.c > CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.i
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.c -o CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.s
 
 # Object files for target ListaDinamicaPunteroPrincipioFin
 ListaDinamicaPunteroPrincipioFin_OBJECTS = \
@@ -119,7 +119,7 @@ ListaDinamicaPunteroPrincipioFin: CMakeFiles/ListaDinamicaPunteroPrincipioFin.di
 ListaDinamicaPunteroPrincipioFin: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/TElemento.c.o
 ListaDinamicaPunteroPrincipioFin: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/build.make
 ListaDinamicaPunteroPrincipioFin: CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ListaDinamicaPunteroPrincipioFin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ListaDinamicaPunteroPrincipioFin"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -131,6 +131,6 @@ CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/clean:
 .PHONY : CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/clean
 
 CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/depend:
-	cd /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ListaDinamicaPunteroPrincipioFin.dir/depend
 

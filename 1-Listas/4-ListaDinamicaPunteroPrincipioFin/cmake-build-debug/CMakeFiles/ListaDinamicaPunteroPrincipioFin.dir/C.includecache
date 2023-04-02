@@ -6,29 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.c
 ListaEnlazadaPunteroPrincipioFin.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
 stdio.h
 -
 stdlib.h
 -
 ListaEnlazadaPunteroPrincipioFin.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
 stdio.h
 -
 stdlib.h
 -
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
 TElemento.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.h
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.c
+TElemento.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.h
+stdio.h
+-
 
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/main.c
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/TElemento.h
+
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/main.c
 stdio.h
 -
 ListaEnlazadaPunteroPrincipioFin.h
-/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
+/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/ListaEnlazadaPunteroPrincipioFin.h
 

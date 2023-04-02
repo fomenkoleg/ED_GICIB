@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/PilaDinamica.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o"
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/TElemento.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/TElemento.c.o"
-  "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/main.c" "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/main.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/PilaDinamica.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/PilaDinamica.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/TElemento.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/TElemento.c.o"
+  "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/main.c" "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/2-Pilas/pilaDinamica/cmake-build-debug/CMakeFiles/pilaDinamica.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

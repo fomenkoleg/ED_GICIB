@@ -1,4 +1,4 @@
-# Install script for directory: /Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin
+# Install script for directory: /Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/olegfomenkov/CLionProjects/1.0.0.-ED_REHAB/1-Listas/ListaDinamicaPunteroPrincipioFin/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/olegfomenkov/Documents/GitHub/ED_GICIB/1-Listas/4-ListaDinamicaPunteroPrincipioFin/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
